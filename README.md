@@ -1,0 +1,2 @@
+# Laragon
+Laragon base folders
